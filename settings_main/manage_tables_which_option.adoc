@@ -1,2 +1,5 @@
-= What Manage Tables menu item should I choose?
 
+If you are starting from a new device, and you need to download and update all owned tables, select `Download Owned`. 
+This downloads all tables you own _in the order they were released_, starting at Season 1.
+
+If you have all the tables on your device, and receive an app update, select `Update All` to download updated REZ files.
