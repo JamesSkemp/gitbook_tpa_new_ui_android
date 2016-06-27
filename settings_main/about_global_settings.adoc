@@ -2,6 +2,7 @@
 search_keywords: ["settings", "global", "overview", "google play", "google play services"]
 
 ---
+:experimental:
 
 The Settings items in the menu:[Options] menu controls global settings for the app.
 
