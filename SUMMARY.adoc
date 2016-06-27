@@ -2,5 +2,5 @@
 
 . link:README.adoc[Introduction]
 . link:settings_main/about_global_settings.adoc[About Global Settings]
-. What is Manage Tables
+. link:settings_main/what_is_manage_tables.adoc[What is Manage Tables]
 
