@@ -1,8 +1,17 @@
-= Main Settings
+---
+search_keywords: ["settings", "global", "overview", "google play", "google play services"]
+
+---
+
 :experimental:
 
-The Main Settings menu controls global settings and options for the app.
+The Settings items in the menu:[Options] menu controls global settings for the app.
 
-Some are 
+You can change some of these global settings in the Table Settings, which you access when in an individual table.
 
-To access the Main Menu, tap the btn:[Settings Gear] button.
+.How to access global Settings items.
+. Tap the btn:[Settings Gear] button in the Main Menu.
+. Choose from the following menu items:
+* Item One
+* Item Two
+* Item Three
