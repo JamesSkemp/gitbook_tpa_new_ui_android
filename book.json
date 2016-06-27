@@ -4,7 +4,8 @@
         "disqus",
         "search",
         "lunr",
-        "fontsettings"
+        "fontsettings",
+        "sharing"
     ],
     "pluginsConfig": {
         "disqus": {
