@@ -1,2 +1,13 @@
 = Can I manage tables outside the app?
 
+Yes, you can.
+
+There is another way to manage tables that allows you to do away with the somewhat awkward menu in TPA. 
+All you need is your favourite Android file browser.
+
+The game DLC is stored in the `/sdcard/Android/data/com.farsight.AndroidPinball.javaProject/files/` folder.
+
+It is arguably easier to navigate to this directory and delete files manually. 
+The method through the UI works, but is slow.
+
+Choose the UI method if you are not comfortable deleting files through the file system.
