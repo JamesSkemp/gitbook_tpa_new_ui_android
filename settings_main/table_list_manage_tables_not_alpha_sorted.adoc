@@ -1,8 +1,15 @@
+---
+search_keywords: ["settings", "manage tables", "table", "order", "manual"]
 
+related:
+    - settings_main/what_is_manage_tables.adoc
+    - settings_main/manage_tables_which_option.adoc
+
+---
 
 The table order in Manage Tables is based on the date the table packs were released.
 
 //Image goes here of Manage Tables view.
 
-You see all the older tables from Season 1 and Season 2 appear first.
+All the older tables from Season One and Season Two appear first, and other seasons display as you scroll down the list.
 
