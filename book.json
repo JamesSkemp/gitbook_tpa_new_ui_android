@@ -2,6 +2,10 @@
     "plugins": [
         "theme-faq",
         "disqus"
+        "search", 
+        "-lunr", 
+        "-fontsettings", 
+        "-sharing"
     ],
     "pluginsConfig": {
         "disqus": {
