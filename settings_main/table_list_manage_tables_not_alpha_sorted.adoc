@@ -1,0 +1,2 @@
+= Why is the table list in Manage Tables not alphabetically sorted?
+
