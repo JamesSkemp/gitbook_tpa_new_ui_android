@@ -2,5 +2,5 @@
 
 . link:README.adoc[Introduction]
 . Main Menu Settings
-. link:settings/settings.adoc[Main Menu Settings]
+. link:Main Menu Settings/about_main_menu_settings.adoc[Main Menu Settings]
 
