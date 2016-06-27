@@ -1,2 +1,8 @@
-= Why is the table list in Manage Tables not alphabetically sorted?
+
+
+The table order in Manage Tables is based on the date the table packs were released.
+
+//Image goes here of Manage Tables view.
+
+You see all the older tables from Season 1 and Season 2 appear first.
 
