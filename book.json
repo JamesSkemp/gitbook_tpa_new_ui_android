@@ -9,6 +9,9 @@
         "disqus": {
             "shortName": "jaredmorgs",
             "useIdentifier": false
+        },
+        "lunr": {
+            "maxIndexSize": "1000000"
         }
     }
 }
