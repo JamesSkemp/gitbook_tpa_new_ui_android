@@ -1,3 +1,3 @@
-= Settings
+= What main menu settings are available?
 
-General overview about settings.
+General overview about settings available from the front screen.
