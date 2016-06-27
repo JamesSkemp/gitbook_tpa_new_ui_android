@@ -2,6 +2,11 @@
 
 === Global Settings
 
-. link:Settings_Main/
-. link:README.adoc[Introduction]
+. link:settings_main/about_global_settings.adoc[]
+
+=== Table Settings
+
+. link:settings_game/about_table_settings.adoc[]
+
+
 
