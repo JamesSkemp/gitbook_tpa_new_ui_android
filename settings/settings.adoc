@@ -1,2 +1,3 @@
 = Settings
 
+General overview about settings.
