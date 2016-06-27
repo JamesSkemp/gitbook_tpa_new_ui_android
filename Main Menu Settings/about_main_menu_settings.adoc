@@ -1,2 +1,6 @@
 = Main Menu Settings
+:experimental:
 
+The Main Settings menu controls global settings and options for the app.
+
+To access the Main Menu, tap the btn:[Settings Gear] button.
