@@ -2,6 +2,6 @@
 
 === Global Settings
 
-. link:Main
+. link:Settings_Main/
 . link:README.adoc[Introduction]
 
