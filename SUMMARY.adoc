@@ -1,4 +1,7 @@
-= Summary
+= Table of Contents
 
+=== Global Settings
+
+. link:Main
 . link:README.adoc[Introduction]
 
