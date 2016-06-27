@@ -3,9 +3,9 @@
         "theme-faq",
         "disqus",
         "search",
-        "lunr",
-        "fontsettings",
-        "sharing"
+        "-lunr",
+        "-fontsettings",
+        "-sharing"
     ],
     "pluginsConfig": {
         "disqus": {
