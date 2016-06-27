@@ -3,7 +3,8 @@
         "theme-faq",
         "disqus",
         "search",
-        "lunr"
+        "lunr",
+        "fontsettings"
     ],
     "pluginsConfig": {
         "disqus": {
