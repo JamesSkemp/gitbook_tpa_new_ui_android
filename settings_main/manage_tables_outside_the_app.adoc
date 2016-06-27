@@ -1,0 +1,2 @@
+= Can I manage tables outside the app?
+
