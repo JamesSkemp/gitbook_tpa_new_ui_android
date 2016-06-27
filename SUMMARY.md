@@ -1,6 +1,6 @@
 # Summary
 
+* [Introduction](README.adoc)
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
 * Settings
 
