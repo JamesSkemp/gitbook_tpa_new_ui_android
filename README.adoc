@@ -1,3 +1,7 @@
-# My Awesome Book
+= How to Use The New UI FAQ
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Use the `Search Box` to ask a question.
+
+Use the `Category` headings if you can't find what you need.
+
+If you can't find an answer to a question you have about the New UI, open an issue and I'll investigate it for you.
