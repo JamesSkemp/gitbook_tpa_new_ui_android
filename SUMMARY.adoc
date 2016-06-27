@@ -1,5 +1,4 @@
 = Summary
 
 . link:README.adoc[Introduction]
-. link:Main Menu Settings/about_main_menu_settings.adoc[Main Menu Settings]
 
