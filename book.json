@@ -3,7 +3,7 @@
         "theme-faq",
         "disqus",
         "search",
-        "-lunr",
+        "lunr",
         "-fontsettings",
         "-sharing"
     ],
