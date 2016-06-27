@@ -2,7 +2,8 @@
     "plugins": [
         "theme-faq",
         "disqus",
-        "search"
+        "search",
+        "lunr"
     ],
     "pluginsConfig": {
         "disqus": {
