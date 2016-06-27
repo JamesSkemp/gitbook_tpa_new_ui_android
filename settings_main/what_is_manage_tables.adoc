@@ -1,2 +1,20 @@
-= What is Manage Tables
+---
+search_keywords: ["settings", "manage tables", "manage", "update all", "download owned", "Delete"]
 
+---
+:experimental:
+
+The `Manage Tables` function in the menu:Options[] lets you update and delete tables from within the app.
+
+IMPORTANT: `Update All` and `Download Owned` do not run as background processes. 
+You must have TPA open all the time for this process to complete.
+
+== Options
+
+Update All::
+Update all _downloaded_ tables present on the device that have received RES updates.
+Download Owned::
+Bulk download all owned tables _missing from the app_.
+Purchases must be linked to your Google Play account, which you purchased the TPA Table Packs or Season Passes.
+Delete::
+Tap the button to the left of each table in the list to delete individual table files.
