@@ -1,11 +1,8 @@
 {
     "plugins": [
         "theme-faq",
-        "disqus"
-        "search", 
-        "-lunr", 
-        "-fontsettings", 
-        "-sharing"
+        "disqus",
+        "search"
     ],
     "pluginsConfig": {
         "disqus": {
