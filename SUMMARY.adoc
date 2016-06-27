@@ -5,4 +5,5 @@
 . link:settings_main/what_is_manage_tables.adoc[What is Manage Tables]
 . link:settings_main/manage_tables_outside_the_app.adoc[Can I manage tables outside the app?]
 . link:settings_main/table_list_manage_tables_not_alpha_sorted.adoc[Why is the table list in Manage Tables not alphabetically sorted?]
+. What Manage Tables menu item should I choose?
 
