@@ -3,5 +3,10 @@
         "theme-faq",
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "jaredmorgs",
+            "useIdentifier": false
+        }
+    }
 }
