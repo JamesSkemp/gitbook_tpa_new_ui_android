@@ -3,8 +3,6 @@ search_keywords: ["settings", "global", "overview", "google play", "google play 
 
 ---
 
-:experimental:
-
 The Settings items in the menu:[Options] menu controls global settings for the app.
 
 You can change some of these global settings in the Table Settings, which you access when in an individual table.
