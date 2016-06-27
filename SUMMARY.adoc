@@ -1,6 +1,5 @@
-= Table of Contents
+= Summary
 
-=== Global Settings
-
-* link:settings_main/about_global_settings.adoc[What settings apply globally to the app?]
+. link:README.adoc[Introduction]
+. About Global Settings
 
