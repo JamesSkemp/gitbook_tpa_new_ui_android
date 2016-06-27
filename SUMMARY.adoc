@@ -1,6 +1,6 @@
 = Table of Contents
 
-=== Global Settings
+== Global Settings
 
 * link:settings_main/about_global_settings.adoc[What settings apply globally to the app?]
 
