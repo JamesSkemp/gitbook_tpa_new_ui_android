@@ -3,17 +3,13 @@
         "theme-faq",
         "disqus",
         "search",
-        "lunr",
-        "-fontsettings",
-        "-sharing"
+        "fontsettings",
+        "sharing"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "jaredmorgs",
             "useIdentifier": false
-        },
-        "lunr": {
-            "maxIndexSize": "1000000"
         },
         "fontsettings": {
             "theme": "sepia",
