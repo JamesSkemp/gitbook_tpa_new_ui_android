@@ -1,5 +1,5 @@
 = Summary
 
 . link:README.adoc[Introduction]
-. Main Menu Settings
+. link:Main Menu Settings[Main Menu Settings]
 
