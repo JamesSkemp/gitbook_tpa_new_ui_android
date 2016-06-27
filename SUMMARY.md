@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.adoc)
-* [Introduction](README.md)
+* [Introduction](readme.adoc)
 * Settings
 
