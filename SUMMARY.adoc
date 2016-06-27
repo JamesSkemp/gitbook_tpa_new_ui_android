@@ -1,6 +1,5 @@
 = Summary
 
-== Main Settings
-
-* link:settings_main/about_global_settings.adoc[About Global Settings]
+. link:README.adoc[Introduction]
+. About Global Settings
 
