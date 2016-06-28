@@ -1,7 +1,6 @@
 {
     "plugins": [
         "theme-faq",
-        "disqus",
         "fontsettings",
         "sharing"
     ],
@@ -9,10 +8,6 @@
         "readme": "home.md"
     },
     "pluginsConfig": {
-        "disqus": {
-            "shortName": "jaredmorgs",
-            "useIdentifier": false
-        },
         "fontsettings": {
             "theme": "sepia",
             "family": "serif",
