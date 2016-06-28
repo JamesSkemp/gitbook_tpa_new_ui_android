@@ -1,12 +1,3 @@
----
-related:
-    - settings_main/what_is_manage_tables.adoc
-    - settings_main/manage_tables_which_option.adoc
-
-search_keywords: ["settings", "manage tables", "table", "order", "manual"]
-
----
-
 The table order in Manage Tables is based on the date the table packs were released.
 
 //Image goes here of Manage Tables view.
