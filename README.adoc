@@ -2,8 +2,6 @@
 index: false
 ---
 
-= How to Use The New UI FAQ
-
 Use the `Search Box` to ask a question.
 
 Use the `Category` headings if you can't find what you need.
