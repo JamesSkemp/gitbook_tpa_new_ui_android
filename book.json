@@ -7,6 +7,9 @@
         "sharing",
         "lunr"
     ],
+    "structure": {
+        "readme": "home.md"
+    },
     "pluginsConfig": {
         "disqus": {
             "shortName": "jaredmorgs",
