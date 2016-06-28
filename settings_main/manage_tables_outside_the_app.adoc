@@ -1,3 +1,9 @@
+---
+related:
+    - settings_main/what_is_manage_tables.adoc
+    - settings_main/manage_tables_which_option.adoc
+
+---
 Yes, you can.
 
 There is another way to manage tables that allows you to do away with the somewhat awkward menu in TPA. 
@@ -9,7 +15,3 @@ It is arguably easier to navigate to this directory and delete files manually.
 The method through the UI works, but is slow.
 
 Choose the UI method if you are not comfortable deleting files through the file system.
-
-.See Also
-link:settings_main/what_is_manage_tables.adoc[What is Manage Tables]
-link:settings_main/manage_tables_which_option.adoc[What 
