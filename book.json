@@ -2,7 +2,6 @@
     "plugins": [
         "theme-faq",
         "disqus",
-        "search",
         "fontsettings",
         "sharing"
     ],
