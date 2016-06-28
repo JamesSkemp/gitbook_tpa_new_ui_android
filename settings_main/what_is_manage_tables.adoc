@@ -1,7 +1,3 @@
----
-search_keywords: ["settings", "manage tables", "manage", "update all", "download owned", "Delete"]
-
----
 :experimental:
 
 The `Manage Tables` function in the menu:Options[] lets you update and delete tables from within the app.
