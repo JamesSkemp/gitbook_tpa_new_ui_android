@@ -4,8 +4,7 @@
         "disqus",
         "search",
         "fontsettings",
-        "sharing",
-        "lunr"
+        "sharing"
     ],
     "structure": {
         "readme": "home.md"
@@ -28,9 +27,6 @@
             "instapaper": false,
             "vk": false,
             "all": "facebook,google,twitter,weibo,instapaper"
-        },
-        "lunr": {
-            "maxIndexSize": "1000000"
         }
     }
 }
