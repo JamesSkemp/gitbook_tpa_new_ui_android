@@ -6,8 +6,7 @@
         "sharing",
         "search",
         "comment",
-        "disqus",
-        "edit-link"
+        "disqus"
     ],
     "structure": {
         "readme": "home.adoc"
