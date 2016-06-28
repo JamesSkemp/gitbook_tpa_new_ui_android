@@ -1,9 +1,9 @@
 ---
-search_keywords: ["settings", "manage tables", "table", "order", "manual"]
-
 related:
     - settings_main/what_is_manage_tables.adoc
     - settings_main/manage_tables_which_option.adoc
+
+search_keywords: ["settings", "manage tables", "table", "order", "manual"]
 
 ---
 
