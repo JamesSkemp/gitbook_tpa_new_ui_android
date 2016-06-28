@@ -1,6 +1,6 @@
 :experimental:
 
-The `Manage Tables` function in the menu:Options[] lets you update and delete tables from within the app.
+The `Manage Tables` function in the btn:[Options] lets you update and delete tables from within the app.
 
 IMPORTANT: `Update All` and `Download Owned` do not run as background processes. 
 You must have TPA open all the time for this process to complete.
