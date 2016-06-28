@@ -1,10 +1,10 @@
 {
     "plugins": [
         "theme-faq",
-        "fontsettings",
+        "-fontsettings",
         "sharing",
-        "lunr"
-        "search"
+        "-lunr"
+        "-search"
     ],
     "structure": {
         "readme": "home.adoc"
@@ -14,15 +14,6 @@
             "theme": "sepia",
             "family": "serif",
             "size": "2"
-        },
-        "sharing": {
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "weibo": false,
-            "instapaper": false,
-            "vk": false,
-            "all": "facebook,google,twitter,weibo,instapaper"
         },
         "lunr": {
             "maxIndexSize": "1000000"
