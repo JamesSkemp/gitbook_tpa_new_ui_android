@@ -25,6 +25,9 @@
             "instapaper": false,
             "vk": false,
             "all": "facebook,google,twitter,weibo,instapaper"
+        },
+        "lunr": {
+            "maxIndexSize": "1000000"
         }
     }
 }
