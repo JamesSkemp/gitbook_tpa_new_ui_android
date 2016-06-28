@@ -1,20 +1,9 @@
 {
     "plugins": [
-        "theme-faq",
-        "sharing"
+        "theme-faq"
     ],
     "structure": {
         "readme": "home.adoc"
     },
-    "pluginsConfig": {
-        "sharing": {
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "weibo": false,
-            "instapaper": false,
-            "vk": false,
-            "all": "facebook,google,twitter,weibo,instapaper"
-        }
-    }
+    "pluginsConfig": {}
 }
