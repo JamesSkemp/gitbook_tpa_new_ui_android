@@ -1,18 +1,12 @@
 {
     "plugins": [
         "theme-faq",
-        "fontsettings",
         "sharing"
     ],
     "structure": {
         "readme": "home.adoc"
     },
     "pluginsConfig": {
-        "fontsettings": {
-            "theme": "sepia",
-            "family": "serif",
-            "size": "2"
-        },
         "sharing": {
             "facebook": true,
             "twitter": true,
