@@ -3,7 +3,8 @@
         "theme-faq",
         "fontsettings",
         "sharing",
-        "lunr"
+        "-lunr"
+        "-search"
     ],
     "structure": {
         "readme": "home.adoc"
