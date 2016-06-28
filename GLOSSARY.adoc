@@ -1,0 +1,47 @@
+= Glossary
+
+== CDN
+
+Short for _Content Delivery Network_. 
+This service distributes DLC across geographically-dispersed servers to make downloading files faster.
+
+== DLC
+
+Short for _Downloadble Content_.
+DLC in TPA takes the form of:
+
+* Table downloads
+* Ball packs
+* Pro Mode unlocks
+
+== FAM
+
+Short for _Farsight Audio Mixer_. This is the bespoke audio engine FarSight Studios implemented for The Pinball Arcade.
+
+== GPS
+
+The abbreviation for Google's player progress tracking system called _Google Play Games Services_. 
+The service provides developers a method to find, keep, and match players for mobile and web games.
+
+== GPU
+
+Short for _Graphics Processing Unit_.
+
+== High LOD
+
+Short for _High Level of Detail_.
+Relates to the number of polygons used to construct graphical assets in the game.
+
+== RES
+
+Short for _resource files_. 
+Resource files contain compiled graphics and sound assets.
+RES files are downloaded during DLC updates.
+
+== SFX
+
+Short for _Sound Effects_.
+
+== TPA
+
+Short for _The Pinball Arcade_.
