@@ -1,9 +1,9 @@
 {
     "plugins": [
         "theme-faq",
-        "fontsettings",
-        "lunr",
-        "sharing"
+        "-fontsettings",
+        "-lunr",
+        "-sharing"
     ],
     "structure": {
         "readme": "home.adoc"
