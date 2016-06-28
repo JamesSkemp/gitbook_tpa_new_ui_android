@@ -2,7 +2,8 @@
     "plugins": [
         "theme-faq",
         "fontsettings",
-        "lunr"
+        "lunr",
+        "sharing"
     ],
     "structure": {
         "readme": "home.adoc"
