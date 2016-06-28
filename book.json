@@ -3,7 +3,7 @@
         "theme-faq",
         "fontsettings",
         "sharing",
-        "-lunr"
+        "lunr",
         "search"
     ],
     "structure": {
