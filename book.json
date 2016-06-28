@@ -8,5 +8,9 @@
     "structure": {
         "readme": "home.adoc"
     },
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "lunr": {
+            "maxIndexSize": "2000000"
+        }
+    }
 }
