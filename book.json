@@ -4,7 +4,8 @@
         "fontsettings",
         "lunr",
         "sharing",
-        "search"
+        "search",
+        "comment"
     ],
     "structure": {
         "readme": "home.adoc"
