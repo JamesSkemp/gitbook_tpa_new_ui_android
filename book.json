@@ -14,6 +14,10 @@
     "pluginsConfig": {
         "lunr": {
             "maxIndexSize": "2000000"
+        },
+        "disqus": {
+            "shortName": "jaredmorgs",
+            "useIdentifier": true
         }
     }
 }
