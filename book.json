@@ -6,5 +6,11 @@
     "structure": {
         "readme": "home.adoc"
     },
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "sepia",
+            "family": "serif",
+            "size": "2"
+        }
+    }
 }
