@@ -1,9 +1,10 @@
 [quote, iconfinder.com]
 An User Interface is like a joke: if you have to explain it, it's not that good.
 
-The FAQ contains information about features in TPA that can't be adequately explained in-game.
+This Help Center contains knowledge-base articles about FarSight Studio's _The Pinball Arcade_ Android app. 
+The knowledge-base highlights aspects of the app that can not be adequately explained in-game.
 
 This could be because of a combination of UI limitations and/or the complexity of the feature.
 
-As the New UI evolves, hopefully some of these help articles can be deleted. 
+As the New UI evolves, some of these help articles can be removed.  
 
