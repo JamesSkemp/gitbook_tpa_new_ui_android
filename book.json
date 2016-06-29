@@ -2,7 +2,6 @@
     "plugins": [
         "theme-faq",
         "-fontsettings",
-        "-sharing"
         "lunr",
         "search",
         "comment",
