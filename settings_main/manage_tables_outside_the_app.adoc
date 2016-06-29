@@ -1,8 +1,8 @@
 ---
 related:
 
-* settings_main/manage_tables_which_options.adoc
-* settings_main/what_is_manage_tables.adoc
+    * settings_main/manage_tables_which_options.adoc
+    * settings_main/what_is_manage_tables.adoc
 
 ---
 
