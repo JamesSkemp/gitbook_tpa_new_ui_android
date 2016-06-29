@@ -1,11 +1,3 @@
----
-related:
-
-    - settings_main/what_is_manage_tables.adoc
-    - settings_main/manage_tables_which_option.adoc
-
----
-
 Yes, you can.
 
 There is another way to manage tables that allows you to do away with the somewhat awkward menu in TPA. 
