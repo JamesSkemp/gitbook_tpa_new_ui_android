@@ -1,11 +1,9 @@
 {
     "plugins": [
-        "theme-faq",
-        "-fontsettings",
-        "lunr",
-        "-search",
-        "-comment",
-        "disqus",
+        "search", 
+        "theme-faq", 
+        "-lunr", 
+        "-fontsettings", 
         "-sharing"
     ],
     "structure": {
