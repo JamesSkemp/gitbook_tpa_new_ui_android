@@ -5,7 +5,8 @@
         "lunr",
         "search",
         "comment",
-        "disqus"
+        "disqus",
+        "sharing"
     ],
     "structure": {
         "readme": "home.adoc"
