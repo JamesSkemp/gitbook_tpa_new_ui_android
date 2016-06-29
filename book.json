@@ -3,7 +3,7 @@
         "theme-faq",
         "-fontsettings",
         "lunr",
-        "search",
+        "-search",
         "-comment",
         "disqus",
         "-sharing"
@@ -13,7 +13,7 @@
     },
     "pluginsConfig": {
         "lunr": {
-            "maxIndexSize": "2000000"
+            "maxIndexSize": "3000000"
         },
         "disqus": {
             "shortName": "jaredmorgs",
