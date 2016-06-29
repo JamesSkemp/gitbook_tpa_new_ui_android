@@ -1,7 +1,8 @@
 {
     "plugins": [
         "theme-faq",
-        "fontsettings",
+        "-fontsettings",
+        "-sharing"
         "lunr",
         "search",
         "comment",
