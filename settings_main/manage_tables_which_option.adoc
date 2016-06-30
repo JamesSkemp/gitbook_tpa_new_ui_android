@@ -1,8 +1,7 @@
 ---
 related:
-
-- settings_main/what_is_manage_tables.adoc
-- settings_main/table_list_manage_tables_not_alpha_sorted.adoc
+    - settings_main/what_is_manage_tables.adoc
+    - settings_main/table_list_manage_tables_not_alpha_sorted.adoc
 
 ---
 
