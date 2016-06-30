@@ -1,7 +1,7 @@
 ---
 related:
-    - settings_main/manage_tables_outside_the_app.adoc
     - settings_main/manage_tables_which_option.adoc
+    - settings_main/manage_tables_outside_the_app.adoc
     - settings_main/table_list_manage_tables_not_alpha_sorted.adoc
 
 ---
