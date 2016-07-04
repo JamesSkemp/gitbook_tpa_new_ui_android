@@ -1,5 +1,7 @@
 = Summary
 
+== General Settings
+
 . link:home.adoc[Introduction]
 . link:settings_main/about_global_settings.adoc[About Global Settings]
 . link:settings_main/what_is_manage_tables.adoc[What is Manage Tables]
