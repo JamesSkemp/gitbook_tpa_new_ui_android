@@ -1,0 +1,2 @@
+= Is audio actually emulated in the app?
+
