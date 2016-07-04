@@ -45,3 +45,8 @@ Short for _Sound Effects_.
 == TPA
 
 Short for _The Pinball Arcade_.
+
+== UI
+
+Short for _User Interface_.
+
