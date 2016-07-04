@@ -1,6 +1,4 @@
-= Table of Contents
-
-=== General Settings
+= Summary
 
 . link:home.adoc[Introduction]
 . link:settings_main/about_global_settings.adoc[About Global Settings]
@@ -8,14 +6,5 @@
 . link:settings_main/manage_tables_outside_the_app.adoc[Can I manage tables outside the app?]
 . link:settings_main/table_list_manage_tables_not_alpha_sorted.adoc[Why is the table list in Manage Tables not alphabetically sorted?]
 . link:settings_main/manage_tables_which_option.adoc[What Manage Tables menu item should I choose?]
-
-=== Audio and Sound
-
-. link:sound/is_audio_emulated.adoc[Is audio actually emulated in the app?]
-. link:sound/sound_effects_have_no_delay.adoc[Why do mechanical effects play back with no delay?]
-. link:sound/adjustable_sliders_audio.adoc[Why have the sound menu sliders disappeared?]
-
-
-
-
+. Is audio actually emulated in the app?
 
