@@ -1,0 +1,10 @@
+
+
+Audio is not purely emulated from the game ROM.
+Audio is recorded with microphones placed in front of the speakers and the sound streamed from the game.
+
+Mobile platforms circa 2012 were not able to emulate audio from the game ROM, while maintaining 60FPS for correct physics.
+
+FarSight can detect Standard and Wizard Goals based on which SFX plays back in the stream. 
+
+It would have been difficult to detect goals without the audio extraced and orchestrated. This is also a factor with recording rather than extracting and emulating audio.
