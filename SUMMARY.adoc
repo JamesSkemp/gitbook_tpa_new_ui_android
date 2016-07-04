@@ -6,7 +6,4 @@
 . link:settings_main/manage_tables_outside_the_app.adoc[Can I manage tables outside the app?]
 . link:settings_main/table_list_manage_tables_not_alpha_sorted.adoc[Why is the table list in Manage Tables not alphabetically sorted?]
 . link:settings_main/manage_tables_which_option.adoc[What Manage Tables menu item should I choose?]
-. link:main_settings.adoc[Sound and Audio]
-.. link:sound/is_audio_emulated.adoc[Is audio actually emulated in the app?]
-.. link:sound/sound_effects_have_no_delay.adoc[Why do mechanical sound effects have no delay?]
 
