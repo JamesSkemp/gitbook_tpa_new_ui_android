@@ -1,5 +1,9 @@
 = Glossary
 
+== BGM
+
+Short for _Background Music_
+
 == CDN
 
 Short for _Content Delivery Network_. 
@@ -8,11 +12,11 @@ This service distributes DLC across geographically-dispersed servers to make dow
 == DLC
 
 Short for _Downloadble Content_.
-DLC in TPA takes the form of:
+DLC in TPA includes:
 
-* Table downloads
-* Ball packs
-* Pro Mode unlocks
+* Table downloads.
+* Ball packs.
+* Pro Mode unlocks.
 
 == FAM
 
