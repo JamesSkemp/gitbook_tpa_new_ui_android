@@ -8,5 +8,5 @@
 . link:settings_main/manage_tables_which_option.adoc[What Manage Tables menu item should I choose?]
 . link:main_settings.adoc[Sound and Audio]
 .. link:sound/is_audio_emulated.adoc[Is audio actually emulated in the app?]
-.. Why do mechanical sound effects have no delay?
+.. link:sound/sound_effects_have_no_delay.adoc[Why do mechanical sound effects have no delay?]
 
