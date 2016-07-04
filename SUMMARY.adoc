@@ -1,4 +1,6 @@
-= Summary
+= Table of Contents
+
+== General Settings
 
 . link:home.adoc[Introduction]
 . link:settings_main/about_global_settings.adoc[About Global Settings]
@@ -6,5 +8,8 @@
 . link:settings_main/manage_tables_outside_the_app.adoc[Can I manage tables outside the app?]
 . link:settings_main/table_list_manage_tables_not_alpha_sorted.adoc[Why is the table list in Manage Tables not alphabetically sorted?]
 . link:settings_main/manage_tables_which_option.adoc[What Manage Tables menu item should I choose?]
+
+== Audio
+
 . link:sound/is_audio_emulated.adoc[Is audio actually emulated in the app?]
 
