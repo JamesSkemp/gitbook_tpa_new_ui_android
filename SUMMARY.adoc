@@ -8,4 +8,5 @@
 . link:settings_main/manage_tables_which_option.adoc[What Manage Tables menu item should I choose?]
 . link:sound/adjustable_sliders_audio.adoc[Why are the adjustable sliders missing from the sound menu?]
 . link:sound/is_audio_emulated.adoc[Is audio actually emulated in the game?]
+. Why do some sound effects have no delay while others do?
 
