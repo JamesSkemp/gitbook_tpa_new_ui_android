@@ -1,0 +1,18 @@
+---
+related:
+    - settings_main/about_global_settings.adoc
+
+---
+:experimental:
+
+When the New UI released, the sound menu had three options for tuning the audio:
+
+* SFX
+* BGM
+* Title Music
+
+Each setting featured a slider that let you control the audio mix, and disable the cover of _Pinball Wizard_ that played infinitely.
+
+The slider settings affected how the FAM mixed sound assets and it was discovered that some tables lost their in-game BGM. 
+
+The adjustable sliders were removed and the global btn:[On | Off] toggle added. 
