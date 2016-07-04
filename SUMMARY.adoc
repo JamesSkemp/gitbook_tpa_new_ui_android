@@ -7,5 +7,5 @@
 . link:settings_main/table_list_manage_tables_not_alpha_sorted.adoc[Why is the table list in Manage Tables not alphabetically sorted?]
 . link:settings_main/manage_tables_which_option.adoc[What Manage Tables menu item should I choose?]
 . link:sound/adjustable_sliders_audio.adoc[Why are the adjustable sliders missing from the sound menu?]
-. Is audio actually emulated in the game?
+. link:sound/is_audio_emulated.adoc[Is audio actually emulated in the game?]
 
