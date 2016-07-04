@@ -22,6 +22,11 @@ DLC in TPA includes:
 
 Short for _Farsight Audio Mixer_. This is the bespoke audio engine FarSight Studios implemented for The Pinball Arcade.
 
+== FPS
+
+Short for _Frames Per Second_.
+TPA requires a constant FPS to maintain accurate physics calculations.
+
 == GPS
 
 The abbreviation for Google's player progress tracking system called _Google Play Games Services_. 
