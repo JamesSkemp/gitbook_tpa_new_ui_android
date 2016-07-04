@@ -1,2 +1,2 @@
-= Why do some sound effects have no delay while others do?
+
 
