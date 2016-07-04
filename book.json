@@ -1,21 +1,14 @@
 {
     "plugins": [
-        "search", 
-        "theme-faq", 
-        "-lunr", 
-        "-fontsettings", 
-        "-sharing"
+        "search",
+        "theme-faq",
+        "-lunr",
+        "-fontsettings",
+        "-sharing",
+        "algolia"
     ],
     "structure": {
         "readme": "home.adoc"
     },
-    "pluginsConfig": {
-        "lunr": {
-            "maxIndexSize": "3000000"
-        },
-        "disqus": {
-            "shortName": "jaredmorgs",
-            "useIdentifier": true
-        }
-    }
+    "pluginsConfig": {}
 }
