@@ -41,15 +41,53 @@ Short for _Graphics Processing Unit_.
 Short for _High Level of Detail_.
 Relates to the number of polygons used to construct graphical assets in the game.
 
+== L1 
+
+The top left digital shoulder button on controllers.
+
+== L2
+
+The bottom left analog shoulder button on controllers.
+
+== LS
+
+Left analog stick on controllers.
+
+== Mode A
+
+HID mode used by Moga Pocket and 3rd Party controllers.
+
+== Mode B 
+
+HID mode used by Moga Pro controllers only.
+
+== R1
+
+The top right digital shoulder button on controllers.
+
+== R2
+
+The bottom right analog shoulder button on controllers.
+
 == RES
 
 Short for _resource files_. 
 Resource files contain compiled graphics and sound assets.
 RES files are downloaded during DLC updates.
 
+== RS
+
+Right analog stick on controllers.
+
 == SFX
 
 Short for _Sound Effects_.
+
+== Type A, Type B
+
+TPA controller scheme setting, available within the in-game table menu. 
+
+Switch between modes to switch the assigned flipper and magnasave shoulder buttons.
 
 == TPA
 
