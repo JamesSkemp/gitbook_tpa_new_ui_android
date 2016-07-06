@@ -1,0 +1,13 @@
+---
+related:
+    - audio/is_audio_emulated.adoc
+
+---
+
+Williams' _White Water_ has a documented issue regarding the game audio. 
+
+Production machines had issues with the compression techniques used on the MIDI audio.
+
+When FarSight recorded the audio from their machine, these artifacts were present in the audio.
+
+Norman Stepansky (Producer, Pinball Arcade) did consider removing the artifacts from the audio but decided to keep them in to re-create the authenticity of the simulation.
