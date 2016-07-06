@@ -1,0 +1,7 @@
+
+
+When audio loops, there is a noticeable pause. 
+
+This is caused by limitations of the audio system FarSight uses, known as the FAM.
+
+As the platform progresses, FarSight will look at ways to boost the audio encoding rate to reduce sound artifacts like popping and crackling.
