@@ -18,7 +18,7 @@
 
 == Controller Support
 
-
+. link:controller/supported_controllers.adoc[What controller harware is supported?]
 
 == Known Issues
 
