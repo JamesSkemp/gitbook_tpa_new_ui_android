@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "search",
         "theme-faq",
         "-fontsettings",
         "-sharing",
