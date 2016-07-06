@@ -6,7 +6,7 @@ related:
 
 Effects that have no noticeable delay are part of the android https://developer.android.com/reference/android/media/SoundPool.html[SoundPool] in the game. 
 
-Including sound assets in the sound pool allows Android to play back the sound directly, and not pass the sound file through the Android audio engine and FAM.
+Including sound assets in the sound pool allows android to play back the sound directly, and not pass the sound file through the android audio engine and FAM.
 
 Sound effects in the SoundPool include any mechanical sound effects:
 
