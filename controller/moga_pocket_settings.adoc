@@ -1,0 +1,20 @@
+
+Moga Pocket controllers have the following button assignments.
+
+Left Flipper::
+L1
+Right Flipper::
+R1
+MagnaSave/Autoplunge button::
+L1 + Up+Right
+Launch Ball::
+RS Down
+Analog Tilt::
+LS
+View Lock::
+X
+Enter Initials::
+L1, R1, and RS Down
+
+NOTE: On Black Knight both Magnasave magnets are activated when lit when the controller command is entered. 
+You will also tilt the table in that direction as well so be wary of tilting if you have been too aggressive up until that point.
