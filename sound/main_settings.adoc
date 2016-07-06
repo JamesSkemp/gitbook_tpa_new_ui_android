@@ -1,6 +1,0 @@
-
-
-= Sound and Audio
-
-. link:sound/is_audio_emulated.adoc[Is audio actually emulated in the app?]
-
