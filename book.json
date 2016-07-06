@@ -15,6 +15,10 @@
             "applicationID": "3ES1MFCS0L",
             "publicKey": "9df3a8f26d0737dd826de1a4a96da304",
             "freeAccount": "true"
+        },
+        "lunr": {
+            "maxIndexSize": "2000000",
+            "ignoreSpecialCharacters": true
         }
     }
 }
