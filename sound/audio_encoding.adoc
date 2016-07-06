@@ -1,0 +1,6 @@
+
+FarSight still encodes audio for android at 11,000 Khz, which is low-quality mono. On other platforms, audio is encoded at 44,100 Khz, which is CD quality audio.
+
+When audio loops, there is still a noticeable pause. This is down to limitations of the audio system FarSight uses.
+
+As the platform progresses, FarSight will look at ways to boost the audio encoding rate to reduce sound artifacts like popping and crackling.
