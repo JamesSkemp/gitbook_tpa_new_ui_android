@@ -3,7 +3,8 @@
         "theme-faq",
         "-fontsettings",
         "-sharing",
-        "-algolia"
+        "-algolia",
+        "lunr"
     ],
     "structure": {
         "readme": "home.adoc"
