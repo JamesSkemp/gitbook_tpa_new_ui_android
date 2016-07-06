@@ -4,7 +4,7 @@
         "-fontsettings",
         "-sharing",
         "algolia",
-        "lunr",
+        "-lunr",
         "search"
     ],
     "structure": {
@@ -17,7 +17,7 @@
             "publicKey": "9df3a8f26d0737dd826de1a4a96da304",
             "freeAccount": "true"
         },
-        "lunr": {
+        "-lunr": {
             "maxIndexSize": "2000000",
             "ignoreSpecialCharacters": true
         }
