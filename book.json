@@ -4,14 +4,14 @@
         "theme-faq",
         "-fontsettings",
         "-sharing",
-        "algolia",
+        "-algolia",
         "lunr"
     ],
     "structure": {
         "readme": "home.adoc"
     },
     "pluginsConfig": {
-        "algolia": {
+        "-algolia": {
             "index": "TPA_FAQ",
             "applicationID": "3ES1MFCS0L",
             "publicKey": "9df3a8f26d0737dd826de1a4a96da304",
