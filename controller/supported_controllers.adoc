@@ -1,4 +1,11 @@
 
+---
+related:
+    - controller/moga_pocket_settings.adoc
+    - controller/moga_pro_settings.adoc
+
+---
+
 The current set of controllers known to work with TPA Android are:
 
 * http://store.mogaanywhere.com/Products/CPFA000253-01[Moga Pocket]
