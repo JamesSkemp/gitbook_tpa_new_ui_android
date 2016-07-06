@@ -19,6 +19,9 @@
 == Controller Support
 
 . link:controller/supported_controllers.adoc[What controller harware is supported?]
+. link:controller/moga_pocket_settings.adoc[What button assignments does the Moga Pocket controller have?]
+. link:controller/moga_pro_settings.adoc[What button assignments does the Moga Pro, and other controller types have?]
+
 
 == Known Issues
 
