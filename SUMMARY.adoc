@@ -16,6 +16,10 @@
 . link:sound/audio_encoding.adoc[Why do the game sountracks seem low-quality?]
 . link:sound/audio_looping.adoc[Why do I hear a brief pause when BGM loops?]
 
+== Controller Support
+
+
+
 == Known Issues
 
 . link:known_issues/whitewater_audio.adoc[Why is the audio on _White Water_ so poor?]
