@@ -1,7 +1,19 @@
+---
+related:
+    - audio/is_audio_emulated.adoc
 
+---
 
 When audio loops, there is a noticeable pause. 
+This is called a gap in audio terms.
 
-This is caused by limitations of the audio system FarSight uses, known as the FAM.
+This fact is demonstrated in the game _No Good Gophers_. 
+
+If you achieve a high score in the game, the music loop is very short and the loop gap noticeable.
+
+This bug is caused by the following factors:
+
+* issues with the audio system FarSight uses, known as the FAM.
+* techniques used to reproduce audio files that are used in-game.
 
 As the platform progresses, FarSight will look at ways to boost the audio encoding rate to reduce sound artifacts like popping and crackling.
