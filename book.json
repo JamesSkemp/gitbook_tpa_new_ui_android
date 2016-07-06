@@ -4,7 +4,8 @@
         "-fontsettings",
         "-sharing",
         "-algolia",
-        "lunr"
+        "lunr",
+        "search"
     ],
     "structure": {
         "readme": "home.adoc"
