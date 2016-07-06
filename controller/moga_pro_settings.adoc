@@ -1,0 +1,7 @@
+---
+related:
+    - controller/supported_controllers.adoc
+
+---
+
+Moga Pro controllers have the following button assignments.
