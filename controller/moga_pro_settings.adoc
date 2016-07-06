@@ -4,4 +4,31 @@ related:
 
 ---
 
-Moga Pro controllers have the following button assignments.
+Moga Pro, and most other third-party controllers have the following button assignments.
+
+Left Flipper::
+* L1 in Type A scheme.
+* L2 in Type B scheme.
+Right Flipper::
+* R1 in Type A scheme.
+* R2 in Type B scheme.
+Special Button Left::
+* L2 in Type A scheme.
+* L1 in Type B scheme.
+Special Button Right::
+* R2 in Type A scheme.
+* R1 in Type B scheme.
+Launch::
+RS Down
+Analog Tilt::
+LS
+Lock Camera View::
+X
+Change Camera View::
+Y
+Select Menu Item/Launch Ball/Trigger Launch::
+A
+Back::
+B
+Enter Initials::
+Flipper Buttons, and Launch (or A).
