@@ -1,3 +1,8 @@
+---
+related:
+    - controller/supported_controllers.adoc
+
+---
 
 Moga Pocket controllers have the following button assignments.
 
