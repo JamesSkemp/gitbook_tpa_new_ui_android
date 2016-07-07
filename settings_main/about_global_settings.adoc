@@ -13,3 +13,4 @@ You can change some of these global settings in the Table Settings, which you ac
 * Graphics
 * Restore/Backup
 . See the linked articles for more information.
+
