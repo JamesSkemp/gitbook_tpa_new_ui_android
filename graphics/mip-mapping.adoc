@@ -1,3 +1,10 @@
+---
+related:
+    - graphics/textures.adoc
+    - graphics/detail.adoc
+
+---
+
 :experimental:
 
 btn:[Mip Mapping] controls the sharpness of the "depth of field" in tables.
