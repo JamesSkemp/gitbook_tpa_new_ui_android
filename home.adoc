@@ -1,10 +1,8 @@
-[quote, iconfinder.com]
-A User Interface is like a joke: if you have to explain it, it's not that good.
+  
 
-This Help Center contains knowledge-base articles about FarSight Studio's _The Pinball Arcade_ Android app. 
-The knowledge-base highlights aspects of the app that can not be adequately explained in-game.
+Use the `Search Box` to ask a question.
 
-This could be because of a combination of UI limitations and/or the complexity of the feature.
+Use the `Category` headings if you can't find what you need.
 
-As the New UI evolves, some of these help articles can be removed.  
+If you can't find an answer to a question you have about the New UI, use the `Suggest a Question` link and tell me what you want to know.
 
