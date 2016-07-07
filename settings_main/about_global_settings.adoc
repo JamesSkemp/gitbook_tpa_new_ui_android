@@ -1,3 +1,5 @@
+
+
 :experimental:
 
 The Settings items in the btn:[Options] menu controls global settings for the app.
@@ -7,6 +9,6 @@ You can change some of these global settings in the Table Settings, which you ac
 .How to access global Settings items.
 . Tap the btn:[Settings Gear] button in the Main Menu.
 . Choose from the following menu items:
-* Item One
-* Item Two
-* Item Three
+* Sound
+* Graphics
+* Restore/Backup
