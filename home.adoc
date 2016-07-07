@@ -1,4 +1,7 @@
-  
+---
+index: false
+
+---  
 
 Use the `Search Box` to ask a question.
 
