@@ -11,8 +11,8 @@
 == Google Play Services
 
 . link:google_play/about_google_play.adoc[When was Google Play Services introduced?]
-. link:google_play/create_save_game.adoc[How do I create a back-up?]
-. link:google_play/delete_save_game.adoc[How do I delete a back-up?]
+. link:google_play/create_game_save.adoc[How do I create a back-up?]
+. link:google_play/delete_game_save.adoc[How do I delete a back-up?]
 . link:google_play/in-game_achievements.adoc[How are in-game achievements structured?]
 . link:google_play/maintaining_game_backups.adoc[What are some back-up strategies I can use?]
 . link:google_play/scheduled_backups.adoc[Can I schedule back-ups?]
