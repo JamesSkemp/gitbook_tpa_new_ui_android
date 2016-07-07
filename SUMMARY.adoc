@@ -8,6 +8,11 @@
 . link:settings_main/table_list_manage_tables_not_alpha_sorted.adoc[Why is the table list in Manage Tables not alphabetically sorted?]
 . link:settings_main/manage_tables_which_option.adoc[What Manage Tables menu item should I choose?]
 
+== Google Play Services
+
+. link:google_play/create_save_game.adoc[How Do I Create a Game Save in Pinball Arcade?]
+. link:google_play/delete_save_game.adoc[How Do I Delete a Game Save in Pinball Arcade?]
+
 == Audio
 
 . link:sound/is_audio_emulated.adoc[Is audio actually emulated in the app?]
