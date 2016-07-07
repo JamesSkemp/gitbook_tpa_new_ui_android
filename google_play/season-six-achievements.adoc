@@ -1,0 +1,14 @@
+---
+related:
+    - google_play/about_google_play.adoc
+    - google_play/in-game_achievements.adoc
+
+---
+
+As of Season Six and over 70 tables, TPA does not have any vacant achievement slots available within the GPS framework. 
+
+That means that GPS no longer tracks or awards XP points for goals achieved against Season 6 tables.
+
+You can still earn achievements on Season One to Five Tables.
+
+If chasing XP on Google Play is a goal for you, TPA offers lucrative points that are easy to achieve.
