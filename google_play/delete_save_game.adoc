@@ -1,6 +1,6 @@
 ---
 related:
-    - google_play/delete-game-save.adoc
+    - google_play/create-game-save.adoc
 
 ---
 :experimental:
