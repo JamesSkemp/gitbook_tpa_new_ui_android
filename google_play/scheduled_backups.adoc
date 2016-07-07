@@ -1,0 +1,10 @@
+---
+related:
+    - google_play/create_game_save.adoc
+    - google_play/delete_game_save.adoc
+
+---
+
+There is no way to schedule a Saved Games backup in the game, so you will need to rely on other systems to remind you. 
+
+One strategy is to use the DLC cycle as my memory jogger to create a new Saved Game restore point. 
