@@ -1,4 +1,13 @@
+---
+related:
+    - audio/sound_button.adoc
+    - audio/adjustable_sliders_audio.adoc
+    - graphics/detail.adoc
+    - graphics/mip_mapping.adoc
+    - graphics/textures.adoc
+    - settings_main/what_is_manage_tables.adoc
 
+---
 
 :experimental:
 
