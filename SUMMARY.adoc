@@ -11,11 +11,14 @@
 
 == Google Play Services
 
-. link:google_play/scheduled_backups.adoc[Can I schedule back-ups?]
+
+. link:google_play/about_google_play.adoc[When was Google Play Services introduced?]
 . link:google_play/create_save_game.adoc[How to create a back-up.]
 . link:google_play/delete_save_game.adoc[How to delete a back-up.]
+. link:google_play/in-game_achievements.adoc[How are in-game achievements structured?]
 . link:google_play/maintaining_game_backups.adoc[What are some back-up strategies I can use?]
-. link:google_play/about_google_play.adoc[When was Google Play Services introduced?]
+. link:google_play/scheduled_backups.adoc[Can I schedule back-ups?]
+. link:google_play/season_six_achievements.adoc[Can I schedule back-ups?]
 
 == Audio
 
@@ -31,6 +34,12 @@
 . link:controller/supported_controllers.adoc[What controller harware is supported?]
 . link:controller/moga_pocket_settings.adoc[What button assignments does the Moga Pocket controller have?]
 . link:controller/moga_pro_settings.adoc[What button assignments does the Moga Pro, and other controller types have?]
+
+== Graphics Options
+
+. link:graphics/detail.adoc[What does the Detail setting in the Graphics menu do?]
+. link:graphics/textures.adoc[What does the Textures setting in the Graphics menu do?]
+. link:graphics/mip_mapping.adoc[What does the Mip Mapping setting in the Graphics menu do?]
 
 
 == Known Issues
