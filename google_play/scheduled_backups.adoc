@@ -2,6 +2,7 @@
 related:
     - google_play/create_game_save.adoc
     - google_play/delete_game_save.adoc
+    - google_play/maintaining_game_backups.adoc
 
 ---
 
