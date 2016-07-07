@@ -1,6 +1,7 @@
 ---
 related:
     - game_settings/launch_button.adoc
+    - game_settings/launch_button_flipping.adoc
 
 ---
 
