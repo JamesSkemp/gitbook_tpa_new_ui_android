@@ -1,3 +1,9 @@
+---
+related:
+    - audio/adjustable_sliders_audio.adoc
+
+---
+
 :experimental:
 
 There's not a great deal to this menu: btn:[On] or btn:[Off].
