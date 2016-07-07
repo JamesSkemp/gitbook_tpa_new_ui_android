@@ -1,0 +1,13 @@
+---
+related:
+    - game_settings/launch_button.adoc
+
+---
+
+WARNING: The launch button has priority over all flipper touch zones and tilt touch zones. Configure the button position so it does not interfere with with a flip or tilt touch zone. 
+
+You may need to experiment with the different options until you find one with the right compromise. 
+
+.About Touch Tilting
+NOTE: Touch Tilting has its own set of touch positions. 
+If you use touch tilting you need to take into account button position for both tilt and flip zones. This does not apply if you are using accelerometer tilting.
