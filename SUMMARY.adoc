@@ -7,6 +7,7 @@
 . link:settings_main/manage_tables_outside_the_app.adoc[Can I manage tables outside the app?]
 . link:settings_main/table_list_manage_tables_not_alpha_sorted.adoc[Why is the table list in Manage Tables not alphabetically sorted?]
 . link:settings_main/manage_tables_which_option.adoc[What Manage Tables menu item should I choose?]
+. link:sound/sound_button.adoc[What does the Sound button do?]
 
 == Google Play Services
 
@@ -21,6 +22,7 @@
 . link:sound/is_audio_emulated.adoc[Is audio actually emulated in the app?]
 . link:sound/sound_effects_have_no_delay.adoc[Why do mechanical sound effects have no delay?]
 . link:sound/adjustable_sliders_audio.adoc[Where did the adjustable volume sliders go?]
+. link:sound/sound_button.adoc[How does the Sound Button work?]
 . link:sound/audio_encoding.adoc[Why do the game sountracks seem low-quality?]
 . link:sound/audio_looping.adoc[Why do I hear a brief pause when BGM loops?]
 
