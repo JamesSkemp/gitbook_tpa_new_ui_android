@@ -7,10 +7,8 @@
 . link:settings_main/manage_tables_outside_the_app.adoc[Can I manage tables outside the app?]
 . link:settings_main/table_list_manage_tables_not_alpha_sorted.adoc[Why is the table list in Manage Tables not alphabetically sorted?]
 . link:settings_main/manage_tables_which_option.adoc[What Manage Tables menu item should I choose?]
-. link:sound/sound_button.adoc[What does the Sound button do?]
 
 == Google Play Services
-
 
 . link:google_play/about_google_play.adoc[When was Google Play Services introduced?]
 . link:google_play/create_save_game.adoc[How to create a back-up.]
@@ -40,7 +38,6 @@
 . link:graphics/detail.adoc[What does the Detail setting in the Graphics menu do?]
 . link:graphics/textures.adoc[What does the Textures setting in the Graphics menu do?]
 . link:graphics/mip_mapping.adoc[What does the Mip Mapping setting in the Graphics menu do?]
-
 
 == Known Issues
 
