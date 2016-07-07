@@ -1,3 +1,10 @@
+---
+related:
+    - google_play/about_google_play.adoc
+    - google_play/season-six-achievements.adoc
+
+---
+
 Achievements are grouped together in GPS. 
 
 There is an upper limit of achievements a game can support. This means that for each group of five Standard and Wizard goals, there is one achievement for each category.
