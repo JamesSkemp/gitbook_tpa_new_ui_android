@@ -1,5 +1,5 @@
 [quote, iconfinder.com]
-An User Interface is like a joke: if you have to explain it, it's not that good.
+A User Interface is like a joke: if you have to explain it, it's not that good.
 
 This Help Center contains knowledge-base articles about FarSight Studio's _The Pinball Arcade_ Android app. 
 The knowledge-base highlights aspects of the app that can not be adequately explained in-game.
