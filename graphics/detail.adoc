@@ -1,6 +1,7 @@
 ---
 related:
     - graphics/mip_mapping.adoc
+    - graphics/textures.adoc
 
 ---
 :experimental:
