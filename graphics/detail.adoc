@@ -13,7 +13,7 @@ Normal::
 Less table detail means that certain high-pologon objects are disabled. A performance boost is gained for older devices.
 
 btn:[Detail] affects what individual elements you see on the table. 
-If you turn this setting from `High` (the default) to `Normal`, you will notice the difference. 
+If you turn this setting from `High` to `Normal`, you will notice the difference. 
 
 Elements like screw heads, transparencies, plastics, bulbs, even some playfield elements like the curly wires on Bally's _The Party Zone_ disappear. 
 
