@@ -1,6 +1,6 @@
 ---
 related:
-    - audio/adjustable_sliders_audio.adoc
+    - sound/adjustable_sliders_audio.adoc
 
 ---
 
