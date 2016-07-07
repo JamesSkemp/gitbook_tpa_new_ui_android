@@ -4,6 +4,7 @@ related:
     - graphics/textures.adoc
 
 ---
+
 :experimental:
 
 btn:[Detail] controls the Level of Detail (LOD) of in-game assets.
