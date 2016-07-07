@@ -1,8 +1,3 @@
----
-index: false
-
----  
-
 Use the `Search Box` to ask a question.
 
 Use the `Category` headings if you can't find what you need.
