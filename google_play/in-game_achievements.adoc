@@ -1,14 +1,14 @@
 ---
 related:
     - google_play/about_google_play.adoc
-    - google_play/season-six-achievements.adoc
+    - google_play/in-game_achievements.adoc
 
 ---
 
-Achievements are grouped together in GPS. 
+As of Season Six and over 70 tables, TPA does not have any vacant achievement slots available.
 
-There is an upper limit of achievements a game can support. This means that for each group of five Standard and Wizard goals, there is one achievement for each category.
+That means that GPS no longer tracks or awards XP points for goals achieved against Season 6 tables.
 
-To qualify for the GPS achievement, all goals in the goal set must be achieved before the GPS Achievement is awarded.
+You can still earn achievements on Season One to Five Tables.
 
-NOTE: As of Season Six, TPA does not have any vacant achievement slots available. That means that GPS no longer tracks or awards XP points for goals achieved against Season 6 tables. 
+If chasing XP on Google Play is a goal for you, TPA offers lucrative points that are easy to achieve.
