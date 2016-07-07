@@ -1,0 +1,11 @@
+---
+related:
+    - google_play/delete-game-save.adoc
+
+---
+:experimental:
+
+. Tap menu:Settings[Restore/Backup,Google Play Save/Load].
+. Tap btn:[Save New Game].
+
+You now have one restore point that you can use to revert to if something catastrophic happens.
