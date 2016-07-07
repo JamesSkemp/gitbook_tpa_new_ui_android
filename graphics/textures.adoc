@@ -1,0 +1,15 @@
+
+
+:experimental:
+
+btn:[Textures] controls the Polygon counts in the models on the Tables. 
+
+High::
+The highest polygon count possible in the table models used in TPA. This is the default for this menu now.
+Normal::
+Hexagonal shaped round targets, and other trade-offs that make some playfield elements appear jaggy at distance, and blocky when zoomed in upon.
+
+If you set this to the Normal setting, close ups of stand-up targets in Williams' _The Machine: Bride of Pinbot_ appear hexagonal. 
+
+Set it to High, and they are far less hexagonal featuring about twice the polygon count.
+
