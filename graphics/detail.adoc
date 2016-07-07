@@ -1,0 +1,12 @@
+
+
+Depending on the device you own, you might not even see this menu. Some Samsung devices featuring the Exynos System on a Chip (SoC) (MALI) architecture did not have a kernel flag set which caused this menu to be hidden. If you don't see this menu, your device has a GPU that will probably struggle to run TPA in general.
+
+High LOD affects what individual elements you see on the table. If you turn this setting to Standard from High, you will really notice the difference. Elements like screw heads, transparencies, plastics, bulbs, even some playfield elements like the curly wires on Bally's _The Party Zone_ disappear. All these elements put strain on the GPU to render them, so if your device has a weak GPU this setting will either need to be set to Standard, or may not even be visible to you.
+
+High::
+All elements originally present on the table. This is the default for this menu now.
+Normal::
+Less table detail means that certain high-pologon objects are disabled. A performance boost is gained for older devices.
+
+NOTE: Detail —or High LOD as most regular TPA Android forum users refer to it as— was implemented http://pinballarcadefans.com/showthread.php/7358-High-lod-model-beta[mid February 2014].
