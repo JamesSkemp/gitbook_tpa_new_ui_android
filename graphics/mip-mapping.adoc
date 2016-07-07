@@ -1,0 +1,17 @@
+:experimental:
+
+btn:[Mip Mapping] controls the sharpness of the "depth of field" in tables.
+
+Technically speaking, it should be _Anisotropic Filtering_. 
+UI button width limitations caused the label `Mip Mapping` to be chosen. 
+
+TIP: See http://en.m.wikipedia.org/wiki/Mipmap[Wikipedia] for a concise description of the technology.
+
+On::
+Serves multiple mipmap images, and lets the GPU pick the best sample resolution for your specific device hardware. This is better for devices with limited GPU capabilities.
+Off::
+Deactivates the Mip Mapping function, which serves the highest resolution mipmap. This requires more GPU processing power, and as you can expect, this may add a performance impact for older devices.
+
+Logic suggests turning this setting on would be advisable. `On` equals "good", right? This may not necessarily be the case.
+
+The best advice for these two options is experiment with them on your device and see which setting delivers the best performance.
