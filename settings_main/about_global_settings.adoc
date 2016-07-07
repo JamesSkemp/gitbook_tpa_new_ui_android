@@ -1,7 +1,7 @@
 ---
 related:
-    - audio/sound_button.adoc
-    - audio/adjustable_sliders_audio.adoc
+    - sound/sound_button.adoc
+    - sound/adjustable_sliders_audio.adoc
     - graphics/detail.adoc
     - graphics/mip_mapping.adoc
     - graphics/textures.adoc
