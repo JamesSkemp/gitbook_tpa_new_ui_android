@@ -1,6 +1,6 @@
 ---
 related:
-    - audio/is_audio_emulated.adoc
+    - sound/is_audio_emulated.adoc
 
 ---
 
