@@ -1,9 +1,13 @@
+---
+related:
+    - google_play/create_game_save.adoc
+    - google_play/delete_game_save.adoc
+    - google_play/scheduled_backups.adoc
 
+---
 
 WARNING: You may lose *all* local achievements if you do not create a Save Game according to the instructions described in this guide. 
 
 Google Play Services was introduced with the Season 4 release of Earthshaker. The feature was a http://pinballarcadefans.com/showthread.php/7293-Implement-Google-Play-Games-Cloud-Save?highlight=google+play+games[long-standing request].
 
-The way you use this feature is documented first, with background information following. It's worth reading past the procedures if you want to know "why" this feature is the way it is.
-
-If you do not create a Save Game, all goals and achievements are lost if you remove TPA, or suffer a catastrophic device failure.
+If you do not create a Save Game, you will lose all goals and achievements  if you remove TPA, or suffer a catastrophic device failure.
