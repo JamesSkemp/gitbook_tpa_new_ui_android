@@ -1,0 +1,7 @@
+Achievements are grouped together in GPS. 
+
+There is an upper limit of achievements a game can support. This means that for each group of five Standard and Wizard goals, there is one achievement for each category.
+
+To qualify for the GPS achievement, all goals in the goal set must be achieved before the GPS Achievement is awarded.
+
+NOTE: As of Season Six, TPA does not have any vacant achievement slots available. That means that GPS no longer tracks or awards XP points for goals achieved against Season 6 tables. 
