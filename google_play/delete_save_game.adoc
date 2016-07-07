@@ -1,0 +1,7 @@
+. Tap the `Google Play` button on the main screen.
+. Tap `Save/Load`
+. Tap `Action Overflow` (three vertical docs) to access the delete function. +
++
+WARNING: Touching anywhere other than this will *load* the profile immediately, potentially causing local progress data loss by loading an older save point over the new data.
++
+. Tap `Delete Saved Game` to delete the record.
