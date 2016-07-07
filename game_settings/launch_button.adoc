@@ -1,0 +1,19 @@
+:experimental:
+
+. Load a table that has a launch button present (Attack From Mars and Black Knight are perfect).
+. Tap the btn:[Settings] icon.
+. Tap btn:[Options].
+. Tap btn:[Settings].
+. Tap btn:[Show Touch Scheme] to display the touch zones for controls. 
++
+WARNING: The launch button has priority over all flipper touch zones and tilt touch zones. Configure the button position so it does not interfere with with a flip or tilt touch zone. 
++
+. Cycle through the Touch Schemes (A to F) until you find a touch scheme that works for your finger size and general play style.
+. Tap btn:[Button Position] until the position of the button suits your playing preference.
+. Tap btn:[Back] to the main table menu once you are happy with the settings.
+
+You may need to experiment with the different options until you find one that works for you. 
+
+.About Touch Tilting
+NOTE: Touch Tilting has its own set of touch positions. 
+If you use touch tilting you need to take into account button position for both tilt and flip zones. This does not apply if you are using accelerometer tilting.
