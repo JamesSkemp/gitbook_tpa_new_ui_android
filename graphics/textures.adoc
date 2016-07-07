@@ -1,4 +1,9 @@
+---
+related:
+    - graphics/details.adoc
+    - graphics/mip_mapping.adoc
 
+---
 
 :experimental:
 
