@@ -8,7 +8,7 @@
         "lunr"
     ],
     "structure": {
-        "readme": "README.adoc"
+        "readme": "home.adoc"
     },
     "pluginsConfig": {
         "-algolia": {
