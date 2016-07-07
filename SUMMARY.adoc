@@ -10,8 +10,11 @@
 
 == Google Play Services
 
-. link:google_play/create_save_game.adoc[How Do I Create a Game Save in Pinball Arcade?]
-. link:google_play/delete_save_game.adoc[How Do I Delete a Game Save in Pinball Arcade?]
+. link:google_play/scheduled_backups.adoc[Can I schedule back-ups?]
+. link:google_play/create_save_game.adoc[How to create a back-up.]
+. link:google_play/delete_save_game.adoc[How to delete a back-up.]
+. link:google_play/maintaining_game_backups.adoc[What are some back-up strategies I can use?]
+. link:google_play/about_google_play.adoc[When was Google Play Services introduced?]
 
 == Audio
 
