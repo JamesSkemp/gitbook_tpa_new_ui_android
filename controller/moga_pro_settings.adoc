@@ -1,6 +1,7 @@
 ---
 related:
     - controller/supported_controllers.adoc
+    - controller/moga_pocket_settings.adoc
 
 ---
 
