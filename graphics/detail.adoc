@@ -3,6 +3,9 @@ related:
     - graphics/mip_mapping.adoc
 
 ---
+:experimental:
+
+btn:[Detail] controls the Level of Detail (LOD)
 
 Depending on the device you own, you might not even see this menu. Some Samsung devices featuring the Exynos System on a Chip (SoC) (MALI) architecture did not have a kernel flag set which caused this menu to be hidden. If you don't see this menu, your device has a GPU that will probably struggle to run TPA in general.
 
