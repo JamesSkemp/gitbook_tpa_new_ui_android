@@ -1,0 +1,7 @@
+:experimental:
+
+There's not a great deal to this menu: btn:[On] or btn:[Off].
+
+Selecting btn:[Off] turns off *all* sound effects and music.
+
+There is no way to separately control mechanical sounds, music, or SFX.
