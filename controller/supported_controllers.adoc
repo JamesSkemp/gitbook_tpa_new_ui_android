@@ -1,4 +1,3 @@
-
 ---
 related:
     - controller/moga_pocket_settings.adoc
