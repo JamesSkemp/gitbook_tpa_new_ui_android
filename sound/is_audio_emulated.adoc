@@ -1,6 +1,7 @@
 ---
 related:
     - sound/adjustable_sliders_audio.adoc
+    - known_issues/whitewater.audio.adoc
 
 ---
 

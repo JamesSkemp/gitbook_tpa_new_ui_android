@@ -16,7 +16,7 @@
 . link:google_play/in-game_achievements.adoc[How are in-game achievements structured?]
 . link:google_play/maintaining_game_backups.adoc[What are some back-up strategies I can use?]
 . link:google_play/scheduled_backups.adoc[Can I schedule back-ups?]
-. link:google_play/season_six_achievements.adoc[Can I schedule back-ups?]
+. link:google_play/season_six_achievements.adoc[Why are there no achievements being recorded for Season 6?]
 
 == Audio
 
