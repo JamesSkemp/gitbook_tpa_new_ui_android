@@ -1,17 +1,18 @@
 {
     "plugins": [
-        "-theme-default",
+        "search",
+        "theme-faq",
         "-fontsettings",
-        "-highlight",
         "-sharing",
-        "theme-faq"
-        "search"
+        "-algolia",
         "lunr"
     ],
     "pluginsConfig": {
-        "lunr": {
-            "maxIndexSize": 2000000,
-            "ignoreSpecialCharacters": true
+        "-algolia": {
+            "index": "TPA_FAQ",
+            "applicationID": "3ES1MFCS0L",
+            "publicKey": "9df3a8f26d0737dd826de1a4a96da304",
+            "freeAccount": "true"
         }
     }
 }
