@@ -5,6 +5,8 @@
         "-highlight",
         "-sharing",
         "theme-faq"
+        "search"
+        "lunr"
     ],
     "pluginsConfig": {
         "lunr": {
