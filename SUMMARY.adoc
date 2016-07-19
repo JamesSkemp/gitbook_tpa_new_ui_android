@@ -1,11 +1,9 @@
-= Table of Contents
+= Summary
 
-== What's New in Pinball Arcade (Google Play)
-
+== Release Notes
 . link:releases/2.01.3_release_notes.adoc[v2.01.3 (July 2016)]
 
 == Global Settings
-
 . link:settings_main/about_global_settings.adoc[About Global Settings]
 . link:settings_main/what_is_manage_tables.adoc[What is Manage Tables]
 . link:settings_main/manage_tables_outside_the_app.adoc[Can I manage tables outside the app?]
@@ -13,7 +11,6 @@
 . link:settings_main/manage_tables_which_option.adoc[What Manage Tables menu item should I choose?]
 
 == Google Play Services
-
 . link:google_play/about_google_play.adoc[When was Google Play Services introduced?]
 . link:google_play/create_game_save.adoc[How do I create a back-up?]
 . link:google_play/delete_game_save.adoc[How do I delete a back-up?]
@@ -23,7 +20,6 @@
 . link:google_play/season_six_achievements.adoc[Why are there no achievements being recorded for Season 6?]
 
 == Audio
-
 . link:sound/is_audio_emulated.adoc[Is audio actually emulated in the app?]
 . link:sound/sound_effects_have_no_delay.adoc[Why do mechanical sound effects have no delay?]
 . link:sound/adjustable_sliders_audio.adoc[Where did the adjustable volume sliders go?]
@@ -32,18 +28,15 @@
 . link:sound/audio_looping.adoc[Why do I hear a brief pause when BGM loops?]
 
 == Controller Support
-
 . link:controller/supported_controllers.adoc[What controller harware is supported?]
 . link:controller/moga_pocket_settings.adoc[What button assignments does the Moga Pocket controller have?]
 . link:controller/moga_pro_settings.adoc[What button assignments does the Moga Pro, and other controller types have?]
 
 == Graphics Options
-
 . link:graphics/detail.adoc[What does the Detail setting in the Graphics menu do?]
 . link:graphics/textures.adoc[What does the Textures setting in the Graphics menu do?]
 . link:graphics/mip_mapping.adoc[What does the Mip Mapping setting in the Graphics menu do?]
 
 == Known Issues
-
-. link:known_issues/whitewater_audio.adoc[Why is the audio on _White Water_ so poor?]
+. link:known_issues/whitewater_audio.adoc[Why is the audio on White Water so poor?]
 
