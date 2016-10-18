@@ -15,7 +15,8 @@ Sound effects in the SoundPool include any mechanical sound effects:
 * Sling Shots
 * Saucer Ejects
 * Vertical Up-kickers (VUK)
-* Game-specific effects like motors or balls rolling on habitrails.
+* Game-specific effects like motors, or balls rolling on habitrails.
+* Balls interacting with metal side rails or rubbers.
 
 
 
