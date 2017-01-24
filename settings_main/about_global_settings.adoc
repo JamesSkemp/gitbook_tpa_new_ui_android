@@ -6,6 +6,7 @@ related:
     - graphics/mip_mapping.adoc
     - graphics/textures.adoc
     - settings_main/what_is_manage_tables.adoc
+    - settings_main/scroll_mode.adoc
 
 ---
 
