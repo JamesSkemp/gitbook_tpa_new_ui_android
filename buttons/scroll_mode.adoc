@@ -4,4 +4,4 @@ Scroll Mode was introduced in January 2017 to help with a scrolling issue for th
 
 Some users reported that they could not scroll using the touch screen, and the table list kept resetting back to the top for them.
 
-If you are experiencing this issue, switch to btn:[Scroll Mode: B] and the issue will go away. The default setting is btn:[Scroll Mode: A].
+If you are experiencing this issue, switch to btn:[Scroll Mode: B] and the scrolling issue will not happen. The default setting is btn:[Scroll Mode: A].
