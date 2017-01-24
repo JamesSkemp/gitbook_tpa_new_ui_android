@@ -1,0 +1,11 @@
+---
+related:
+    - controller/supported_controllers.adoc
+    - controller/moga_pocket_settings.adoc
+    - controller/moga_pro_settings.adoc
+
+---
+
+FarSight decided upon the Moga API to implement controller support.
+
+Because this framework is specific to a particular HID, the way other controllers work with TPA.

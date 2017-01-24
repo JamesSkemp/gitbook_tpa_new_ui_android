@@ -36,6 +36,10 @@ The service provides developers a method to find, keep, and match players for mo
 
 Short for _Graphics Processing Unit_.
 
+== HID
+
+Short for _Human Interface Device_.
+
 == High LOD
 
 Short for _High Level of Detail_.
