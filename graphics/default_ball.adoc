@@ -7,3 +7,9 @@ related:
 The texture you might associate with a pinball is a high-shine chrome texture. 
 
 In TPA, the ball carousel you see in-game depicts the default ball as almost a black-chrome texture.
+
+image:/images/default_ball.png[alt=""]
+
+When you are playing a table with this ball selected, the ball takes on a more chrome appearance.
+
+image:/images/default_ball_in_game.png[alt=""]
