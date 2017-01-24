@@ -1,6 +1,6 @@
 :experimental: 
 
-Scroll Mode was introduced in January 2017 to help with an identified issue with the Table Select screen.
+Scroll Mode was introduced in January 2017 to help with a scrolling issue for the Table Select screen.
 
 Some users reported that they could not scroll using the touch screen, and the table list kept resetting back to the top for them.
 

@@ -20,7 +20,7 @@ DLC in TPA includes:
 
 == FAM
 
-Short for _Farsight Audio Mixer_. This is the bespoke audio engine FarSight Studios implemented for The Pinball Arcade.
+Short for _Farsight Audio Mixer_. This is the bespoke audio engine FarSight Studios uses for The Pinball Arcade.
 
 == FPS
 
