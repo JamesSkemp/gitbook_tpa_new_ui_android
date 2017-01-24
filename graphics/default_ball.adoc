@@ -1,0 +1,9 @@
+---
+related:
+    - settings_main/about_global_settings.adoc
+
+---
+
+The texture you might associate with a pinball is a high-shine chrome texture. 
+
+In TPA, the ball carousel you see in-game depicts the default ball as almost a black-chrome texture.

@@ -41,6 +41,7 @@
 . link:graphics/detail.adoc[What does the Detail setting in the Graphics menu do?]
 . link:graphics/textures.adoc[What does the Textures setting in the Graphics menu do?]
 . link:graphics/mip_mapping.adoc[What does the Mip Mapping setting in the Graphics menu do?]
+. link:graphics/default_ball.adoc[Which pinball is the default ball in the ball carousel?]
 
 == Known Issues
 
