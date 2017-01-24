@@ -1,4 +1,4 @@
-= SummaryTable of Contents
+= Table of Contents
 
 == Global Settings
 
