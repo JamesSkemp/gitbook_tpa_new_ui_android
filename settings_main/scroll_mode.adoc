@@ -1,3 +1,9 @@
+---
+related:
+    - settings_main/about_global_settings.adoc
+
+---
+
 :experimental: 
 
 Scroll Mode was introduced in January 2017 to help with a scrolling issue for the Table Select screen.
