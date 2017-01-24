@@ -8,4 +8,6 @@ related:
 
 FarSight decided upon the Moga API to implement controller support.
 
-Because this framework is specific to a particular HID, the way other controllers work with TPA.
+Because this framework is specific to a particular HID, the way other controllers work with TPA can often be variable.
+
+In hindsight it may have been better to use the native Android Controller API, for better compatibility with more HID types.
