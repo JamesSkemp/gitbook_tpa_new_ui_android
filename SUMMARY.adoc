@@ -1,9 +1,5 @@
 = Table of Contents
 
-== What's New in Pinball Arcade (Google Play)
-
-. link:releases/2.01.3_release_notes.adoc[v2.01.3 (July 2016)]
-
 == Global Settings
 
 . link:settings_main/about_global_settings.adoc[About Global Settings]
